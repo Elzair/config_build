@@ -13,6 +13,7 @@ Use
 ---
 
 You can instantiate the class with the following parameters.
+
     class { "config_build":
       operatingsystem => "linux",
       distro          => "ubuntu",
