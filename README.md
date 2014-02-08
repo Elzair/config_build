@@ -7,6 +7,7 @@ Installation
 ------------
 
 In the **modules** directory of your puppet project, type the following.
+
     git clone https://github.com/Elzair/config_build.git
 
 Use
